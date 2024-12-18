@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoChartTester",
+  "display": "standalone",
+  "name": "UnoChartTester",
+  "short_name": "UnoChartTester",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

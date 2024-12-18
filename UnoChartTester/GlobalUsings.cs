@@ -1,0 +1,15 @@
+﻿global using System.Collections.Immutable;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using UnoChartTester.DataContracts;
+global using UnoChartTester.DataContracts.Serialization;
+global using UnoChartTester.Models;
+global using UnoChartTester.Presentation;
+global using UnoChartTester.Services.Caching;
+global using UnoChartTester.Services.Endpoints;
+global using ApplicationExecutionState = Windows.ApplicationModel.Activation.ApplicationExecutionState;
