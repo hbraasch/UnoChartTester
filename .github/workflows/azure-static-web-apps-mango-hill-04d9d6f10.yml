@@ -25,7 +25,7 @@ jobs:
          dotnet-version: '8.0.x'
       - run: |
           cd UnoChartTester
-          dotnet publish -f net8.0-browserwasm -c Release -p:TargetFrameworks=net8.0-browserwasm
+          dotnet build -f net8.0-browserwasm -c Release -p:TargetFrameworks=net8.0-browserwasm
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
