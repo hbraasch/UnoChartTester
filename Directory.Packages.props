@@ -9,5 +9,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageVersion Include="LiveChartsCore.SkiaSharpView.Uno.WinUI" Version="2.0.0-rc4.5" />
+    <PackageVersion Include="Microcharts" Version="0.9.5.9" />
   </ItemGroup>
 </Project>

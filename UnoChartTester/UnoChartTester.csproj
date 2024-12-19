@@ -10,7 +10,7 @@
     <!-- App Identifier -->
     <ApplicationId>com.companyname.UnoChartTester</ApplicationId>
     <!-- Versions -->
-    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <ApplicationDisplayVersion>1.0.1</ApplicationDisplayVersion>
     <ApplicationVersion>1</ApplicationVersion>
     <!-- Package Publisher -->
     <ApplicationPublisher>Heinrich</ApplicationPublisher>
